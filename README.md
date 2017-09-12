@@ -4,4 +4,4 @@
 
 # HOW TO USE
 
-Just use one of the compiled files in the Source folder.
+Just use one of the compiled files in the [Compiled](Compiled/) folder.
